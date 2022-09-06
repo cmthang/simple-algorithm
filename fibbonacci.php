@@ -39,9 +39,10 @@
     echo ("Index 2:  ".$check2." Value 2: ".fibonacci_whileloop($check2)." ");
 
     // Recursive Algorithm
-    // function fibonacci_recursive(num, memory) {
-
-    // }
+    // function fibonacci_recursive(num, memory) 
+    // {
+    //     return 0;
+    // };
 
 
 ?>
